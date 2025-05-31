@@ -1,0 +1,15 @@
+Contriibutions: 
+Introduction						                    Ethel
+Current System and Its Implementation		            Samuel and Aashem
+Assumptions on Implementation			                Samuel and Aashem
+
+Attack Scenarios and Countermeasures:
+Potential Attacks and its Impact		                Nisa
+Motivation and Capability of Attackers	                Nisa
+Proposed Countermeasures		                        Zay Naing
+Proposed System					                        Ethel
+Conclusion and Additional Considerations	            Nisa
+
+Program:
+Client-client					                        Aashem and Samuel
+Interface					                            Ethel
